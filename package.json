@@ -1,5 +1,5 @@
 {
-  "homepage": "https://davidjenner.github.io/WordQuestJr",
+  "homepage": "https://davidjenner.cc/WordQuestJr/",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
@@ -9,6 +9,6 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "react-scripts": "^0.0.0"
+    "react-scripts": "^5.0.1"
   }
 }
